@@ -1,3 +1,5 @@
 # _config.yml
 
 title: "Tartartech Blog"
+description: [Things I think about and make]
+theme: jekyll-theme-cayman
